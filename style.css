@@ -1,0 +1,21 @@
+.container{
+    background-color: rgb(17, 190, 176);
+}
+input{
+    width: 500px;
+    height: 50px;
+    font-weight: bolder;
+    font-size: larger;
+}
+button{
+    width: 200px;
+    height: 50px;
+    font-weight: bolder;
+    font-size: larger;
+}
+button:hover{
+    background-color: red;
+}
+body{
+    text-align: center;
+}
